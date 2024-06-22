@@ -14,7 +14,30 @@ Employ Power BI to analyze these banking datasets, unraveling intricate patterns
 
 [BankingDataset1.xlsx](https://docs.google.com/spreadsheets/d/1qm2RrQuwWTJPkmDu3KgpEVxBrm373HWt/edit?usp=sharing&ouid=106912519366189828264&rtpof=true&sd=true)
 
+The "BankingDataset1.xlsx" file contains the following columns:
+
+1. **TransactionID**: A unique identifier for each transaction. 
+2. **AccountNumber**: The account number associated with the transaction. (Foreign Key)
+3. **TransactionType**: The type of transaction (e.g., Transfer, Deposit, Withdrawal, Payment).
+4. **Amount**: The amount of money involved in the transaction.
+5. **TransactionDate**: The date when the transaction occurred.
+6. **BranchCode**: The code of the bank branch where the transaction took place.
+7. **Currency**: The currency in which the transaction was made.
+8. **TransactionTime**: The time of day when the transaction occurred (in hours).
+
 [BankingDataset2.xlsx](https://docs.google.com/spreadsheets/d/1Id8rth_sWwzrcxxEKJA5UMEA7EbD_5az/edit?usp=sharing&ouid=106912519366189828264&rtpof=true&sd=true)
+
+The "BankingDataset2.xlsx" file contains the following columns:
+
+1. **AccountNumber**: A unique identifier for each account, corresponding to 'AccountNumber' in "BankingDataset1.xlsx". (Primary Key)
+2. **AccountHolder**: The name of the account holder.
+3. **AccountType**: The type of account (e.g., Credit, Loan, Checking).
+4. **Balance**: The current balance of the account.
+5. **InterestRate**: The interest rate applicable to the account.
+6. **CreditScore**: The credit score of the account holder.
+7. **OpeningDate**: The date when the account was opened.
+8. **LoanAmount**: The amount of loan associated with the account (if applicable).
+9. **AccountHolderDetails:** Details about account holders - employment sector, years at current residence, and city of residence etc.
 
 ### **Part 1: Data Cleaning, Modeling, and DAX in Power BI**
 
