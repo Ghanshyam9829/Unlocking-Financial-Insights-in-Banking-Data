@@ -110,6 +110,9 @@ Welcome to the Banking Analysis Project. This project leverages Power BI to prov
 
 ## Dashboard Insights: Interest Rate, Loan & Credit Score Analysis
 
+![Screenshot (184)](https://github.com/Ghanshyam9829/Unlocking-Financial-Insights-in-Banking-Data/assets/125486967/84c8bf36-7c97-49f5-a092-ba251f55e744)
+
+
 ### Interest Rate and Balance Correlation
 - **Observation:**
   - No correlation between interest rate and USD balance.
@@ -144,6 +147,9 @@ Welcome to the Banking Analysis Project. This project leverages Power BI to prov
 
 
 ## Dashboard Insights: Branch & Customer Analysis
+
+![Uploading Screenshot (185).png…]()
+
 
 ### Branch Analysis
 - **Top Performing Branch:**
