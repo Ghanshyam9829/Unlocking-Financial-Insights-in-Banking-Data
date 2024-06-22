@@ -148,7 +148,8 @@ Welcome to the Banking Analysis Project. This project leverages Power BI to prov
 
 ## Dashboard Insights: Branch & Customer Analysis
 
-![Uploading Screenshot (185).png…]()
+![Screenshot (185)](https://github.com/Ghanshyam9829/Unlocking-Financial-Insights-in-Banking-Data/assets/125486967/43b3b8fd-0579-42d3-81b7-250260fcca13)
+
 
 
 ### Branch Analysis
