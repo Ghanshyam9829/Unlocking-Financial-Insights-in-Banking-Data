@@ -12,9 +12,9 @@ Employ Power BI to analyze these banking datasets, unraveling intricate patterns
 
 ### **Data Source:**
 
-[BankingDataset1.xlsx](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1e1bc70-9ede-4c69-84fd-42c5605803a0/a5a65b8a-cbbd-40f7-90e8-dbf57cb41048/BankingDataset1.xlsx)
+[BankingDataset1.xlsx](https://docs.google.com/spreadsheets/d/1qm2RrQuwWTJPkmDu3KgpEVxBrm373HWt/edit?usp=sharing&ouid=106912519366189828264&rtpof=true&sd=true)
 
-[BankingDataset2.xlsx](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1e1bc70-9ede-4c69-84fd-42c5605803a0/c32057d2-f4bf-491f-aaaf-25b20f52eb8e/BankingDataset2.xlsx)
+[BankingDataset2.xlsx](https://docs.google.com/spreadsheets/d/1Id8rth_sWwzrcxxEKJA5UMEA7EbD_5az/edit?usp=sharing&ouid=106912519366189828264&rtpof=true&sd=true)
 
 ### **Part 1: Data Cleaning, Modeling, and DAX in Power BI**
 
