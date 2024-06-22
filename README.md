@@ -105,6 +105,76 @@ Welcome to the Banking Analysis Project. This project leverages Power BI to prov
   - Transactions other than Transfer, Withdrawal, Deposit, and Payment.
 - **Characteristics:**
   - Unusual transactions are mostly under the "Payment" category, with generally low values.
+ 
+---
+
+## Dashboard Insights: Interest Rate, Loan & Credit Score Analysis
+
+### Interest Rate and Balance Correlation
+- **Observation:**
+  - No correlation between interest rate and USD balance.
+
+### Credit Score and Loan Amount Correlation
+- **Observation:**
+  - No correlation between credit score and loan amount.
+
+### Account Age and Balance Correlation
+- **Observation:**
+  - No correlation between account age and balance amount in USD.
+
+### Distribution of Credit Score Among Account Holders by Account Type
+- **Credit Score Ranges and Predominant Account Types:**
+  - **300-400:** Highest number of Checking account holders.
+  - **800-900:** Highest number of Loan account holders.
+  - **Others:** Highest number of Savings account holders.
+
+#### Insight:
+  - Customers with high credit scores tend to get more loans, though their count is relatively small.
+  - Savings account holders have a wide range of credit scores, while the lowest credit scores belong to Checking account holders.
+
+### Distribution of Interest Rate Among Account Holders by Account Type
+- **Observation:**
+  - Most account holders have an interest rate between 1% and 3%.
+
+### Loan Amount by City and Sector
+- **City Observation:**
+  - London has the highest loan amounts, followed by Berlin, Sydney, and other cities.
+- **Sector Observation:**
+  - The technology sector has the highest loan amounts, followed by Education, Healthcare, and other sectors.
+
+
+## Dashboard Insights: Branch & Customer Analysis
+
+### Branch Analysis
+- **Top Performing Branch:**
+  - Branch 479 has the highest number of transactions with a total of 8.
+
+### Customer Risk Assessment
+- **High-Risk Customers:**
+  - 9 customers with a risk score > 10.
+- **Low-Risk Customers:**
+  - 680 customers with a risk score < 1.
+
+### Sector Transaction Behavior
+- **Technology Sector:**
+  - Highest transaction volume with a total amount of 884k.
+- **Finance Sector:**
+  - Lowest transaction volume.
+
+### Demographic Transaction Behavior
+- **City Comparison:**
+  - Sydney: Highest transaction count with 226 transactions.
+  - New York and London: Same number of transactions, but London has a higher transaction amount.
+
+### Branch Performance
+- **Highest-Performing Branch:**
+  - Branch 57.
+- **Top Five Performing Branches:**
+  - Highlighted using a funnel chart.
+
+### Loyalty Analysis
+- **Longest Association:**
+  - The most loyal customers have been associated with the bank for 1649 days.
 
 
 
