@@ -59,3 +59,52 @@ Welcome to the Banking Analysis Project. This project leverages Power BI to prov
    
      ![Power Bi Front page](https://github.com/Ghanshyam9829/Unlocking-Financial-Insights-in-Banking-Data/assets/125486967/c32392c5-f757-4390-9f56-158085664ea3)
 
+
+
+---
+
+## Dashboard Insights: Transactions & Balance Analysis
+
+![Dashboard 1](https://github.com/Ghanshyam9829/Unlocking-Financial-Insights-in-Banking-Data/assets/125486967/0b200807-a719-4230-ac3d-1a0d925fd9e0)
+
+
+### Transaction Trend over Time - Hourly
+- **Peak Transaction Volume:** 
+  - Highest at 11 AM and 3 PM.
+- **Peak Transaction Amounts:**
+  - Highest at 2 AM and 11 AM.
+
+### Transaction Trend over Time - Quarterly
+- **Volume Stability:**
+  - No significant fluctuations over time.
+- **Credit vs. Debit Trends:**
+  - Opposite trends in credit and debit transactions.
+
+### Historical Trend in Transaction Volume and Forecast for Next Quarter
+- **Peak Volume Period:**
+  - Highest in the second half of the year (July to September).
+- **Volume Consistency:**
+  - Minimal fluctuations overall.
+- **Future Forecast:**
+  - Slight reduction in volume predicted for the next quarter.
+
+### Average Account Balance
+- **Highest Balance:**
+  - "Savings" account type holds the highest average balance.
+
+### High Value Transactions
+- **Definition:**
+  - Transactions > USD 5000.
+- **Unusual Transactions:**
+  - 2.5% of transactions are flagged as unusual or potentially fraudulent.
+- **Comparison:**
+  - Fewer high-value transactions compared to regular transactions.
+
+### Rare Transaction Types
+- **Definition:**
+  - Transactions other than Transfer, Withdrawal, Deposit, and Payment.
+- **Characteristics:**
+  - Unusual transactions are mostly under the "Payment" category, with generally low values.
+
+
+
