@@ -56,6 +56,6 @@ Welcome to the Banking Analysis Project. This project leverages Power BI to prov
 
 3. **Branch and Customer Analysis**
    - This section provides insights into branch performance and customer behaviors. It involves analyzing branch activity, identifying the most active branches, and evaluating customer loyalty based on account duration. The section also includes extracting and analyzing customer demographics to understand their influence on transaction behaviors and account characteristics.
-   -
-   - ![Power Bi Front page](https://github.com/Ghanshyam9829/Unlocking-Financial-Insights-in-Banking-Data/assets/125486967/c32392c5-f757-4390-9f56-158085664ea3)
+   
+     ![Power Bi Front page](https://github.com/Ghanshyam9829/Unlocking-Financial-Insights-in-Banking-Data/assets/125486967/c32392c5-f757-4390-9f56-158085664ea3)
 
