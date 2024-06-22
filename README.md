@@ -4,7 +4,7 @@
 
 ### **Background**
 
-As a data analyst at FinInsight Group, a consultancy specializing in banking analytics, you are equipped with two comprehensive datasets: 'Banking Transactions' and 'Customer Account Details'. The 'Banking Transactions' dataset records detailed transaction data, including types, amounts, dates, and branch information. The 'Customer Account Details' dataset provides insights into account holders, covering account types, balances, interest rates, credit scores, and loan amounts.
+As a data analyst at FinInsight Group, a consultancy specializing in banking analytics, we have two comprehensive datasets: 'Banking Transactions' and 'Customer Account Details'. The 'Banking Transactions' dataset records detailed transaction data, including types, amounts, dates, and branch information. The 'Customer Account Details' dataset provides insights into account holders, covering account types, balances, interest rates, credit scores, and loan amounts.
 
 ### **Objective**
 
@@ -86,7 +86,7 @@ Welcome to the Banking Analysis Project. This project leverages Power BI to prov
 
 ---
 
-## Dashboard Insights: Transactions & Balance Analysis
+## Dashboard One: Transactions & Balance Analysis
 
 ![Dashboard 1](https://github.com/Ghanshyam9829/Unlocking-Financial-Insights-in-Banking-Data/assets/125486967/0b200807-a719-4230-ac3d-1a0d925fd9e0)
 
@@ -131,7 +131,7 @@ Welcome to the Banking Analysis Project. This project leverages Power BI to prov
  
 ---
 
-## Dashboard Insights: Interest Rate, Loan & Credit Score Analysis
+## Dashboard Two: Interest Rate, Loan & Credit Score Analysis
 
 ![Screenshot (184)](https://github.com/Ghanshyam9829/Unlocking-Financial-Insights-in-Banking-Data/assets/125486967/84c8bf36-7c97-49f5-a092-ba251f55e744)
 
@@ -169,7 +169,7 @@ Welcome to the Banking Analysis Project. This project leverages Power BI to prov
   - The technology sector has the highest loan amounts, followed by Education, Healthcare, and other sectors.
 
 
-## Dashboard Insights: Branch & Customer Analysis
+## Dashboard Three: Branch & Customer Analysis
 
 ![Screenshot (185)](https://github.com/Ghanshyam9829/Unlocking-Financial-Insights-in-Banking-Data/assets/125486967/43b3b8fd-0579-42d3-81b7-250260fcca13)
 
